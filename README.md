@@ -2,7 +2,6 @@
 ## Quantidade de projetos em cada linguagem ✌
 - ✔ Estudando Front-end
 - 🐍 Python
-<p align="left"> < img src = "https://komarev.com/ghpvc/? username=UmJovemProgramador=yellow" alt = "Profile views"  /> </p>
 
 <div align="center">
   <a href="https://github.com/UmJovemProgramador">
