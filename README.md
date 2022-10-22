@@ -1,4 +1,4 @@
-## Fala ae ✌
+## Gráfico de quantidade de projetos em cada limguagem ✌
 - ✔ Estudando Front-end
 - 🐍 Python
 
