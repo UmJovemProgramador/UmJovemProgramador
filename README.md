@@ -1,7 +1,6 @@
-## Gráfico que exibi a quantidade de projetos em cada linguagem ✌
+## Quantidade de projetos em cada linguagem ✌
 - ✔ Estudando Front-end
 - 🐍 Python
-
 
 <div align="center">
   <a href="https://github.com/UmJovemProgramador">
