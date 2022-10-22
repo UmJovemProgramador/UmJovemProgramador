@@ -2,6 +2,11 @@
 ## Quantidade de projetos em cada linguagem ✌
 - ✔ Estudando Front-end
 - 🐍 Python
+- Java
+- C
+- C#
+- HTML
+- CSS
 
 <div align="center">
   <a href="https://github.com/UmJovemProgramador">
