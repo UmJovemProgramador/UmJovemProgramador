@@ -1,4 +1,4 @@
-## Gráfico de quantidade de projetos em cada linguagem ✌
+## Gráfico que exibi a quantidade de projetos em cada linguagem ✌
 - ✔ Estudando Front-end
 - 🐍 Python
 
