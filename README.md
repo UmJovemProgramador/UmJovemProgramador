@@ -1,6 +1,6 @@
 
 ## Quantidade de projetos em cada linguagem ✌
-- ✔ Estudando Front-end
+
 - 🐍 Python
 - ✔Java
 - ✔C
