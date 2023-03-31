@@ -1,6 +1,11 @@
 ## Fala ae ✌
 - ✔ Estudando Front-end
 - 🐍 Python
+- C
+- C#
+- Java Script
+- CSS
+- Java
 
 
 <div align="center">
