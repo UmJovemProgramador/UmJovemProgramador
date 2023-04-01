@@ -4,6 +4,7 @@
 - ✔ C#
 - ✔ Java Script
 - ✔ CSS
+- ✔ HTML
 - ✔ Java
 
 
