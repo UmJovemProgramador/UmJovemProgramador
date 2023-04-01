@@ -1,10 +1,10 @@
 - ✔ Estudando Front-end
-- 🐍 Python
-- C
-- C#
-- Java Script
-- CSS
-- Java
+- ✔ Python
+- ✔ C
+- ✔ C#
+- ✔ Java Script
+- ✔ CSS
+- ✔ Java
 
 
 # Hi, I'm Antônio Lucas! :D
