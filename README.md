@@ -1,4 +1,3 @@
-## Fala ae ✌
 - ✔ Estudando Front-end
 - 🐍 Python
 - C
