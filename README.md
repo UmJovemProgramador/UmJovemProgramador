@@ -29,6 +29,9 @@
 
 <br />
 
-
+<div align="center">
+  <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=UmJovemProgramador&theme=dark" />
+  <img height="200em" src="https://activity-graph.herokuapp.com/graph?username=UmJovemProgramador&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+</div>
 
 
