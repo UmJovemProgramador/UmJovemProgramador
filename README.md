@@ -8,6 +8,8 @@
   <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
 </div>
 
+<br />
+
 <div align="center">
   <a href="https://github.com/hugonogo">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmJovemProgramador&layout=compact&langs_count=7&theme=dark"/>
@@ -15,10 +17,19 @@
   </a>
 </div>
 
-<div align="center" style="display: inline_block"><br>
+<br />
+
+<div align="center" style="display: inline_block">
   <img alt="HG-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="HG-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img alt="HG-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img alt="HG-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img alt="HG-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img alt="HG-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img alt="HG-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+</div>
+
+<br />
+
+<div align="center">
+  <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=UmJovemProgramador&theme=dark" />
+  <img height="200em" src="https://activity-graph.herokuapp.com/graph?username=UmJovemProgramador&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
 </div>
