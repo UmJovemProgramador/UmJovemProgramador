@@ -29,6 +29,4 @@
 
 <br />
 
-<div align="center">
-  <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=UmJovemProgramador&theme=dark" />
-</div>
+
