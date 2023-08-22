@@ -29,9 +29,6 @@
 
 <br />
 
-<div align="center">
-  <img height="200em" src="https://neilpatel.com/wp-content/uploads/2017/12/10-tipos-de-codigos-html-web.jpeg" />
-  <img height="200em" src="https://activity-graph.herokuapp.com/graph?username=UmJovemProgramador&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
-</div>
+
 
 
