@@ -1,36 +1,4 @@
-# Hi, I'm Antônio Lucas! :D
-
-<br />
-
-<div align="center">
-  <a href="https://github.com/UmJovemProgramador">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmJovemProgramador&layout=compact&langs_count=7&tokyo-night"/>
-  </a>
-</div>
-
-<br />
-
-<div align="center" style="display: inline_block">
-  <img alt="HG-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="HG-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img alt="HG-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img alt="HG-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img alt="HG-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-</div>
-
-<br />
-
-<div align="center">
-  
-  <br/>
-  <br/>
-  
-  <img height="200em" src="https://blog.convisoappsec.com/wp-content/uploads/2017/05/83256-revisao-de-codigo-de-ti-saiba-como-fazer-e-a-importancia-de-revisar-1200x800.jpg" />
-</div>
-
-
-
-# Hello World! I'm Antônio Lucas 
+# Hello World! I'm Antônio Lucas :D
 Since childhood, my heart has pulsed to the rhythm of technology. Each line of code is a step towards my programming goal, and the learning journey is the soundtrack that drives my passion for creating innovative solutions and transforming the digital world.
 
 Desde a infância, meu coração pulsa ao ritmo da tecnologia. Cada linha de código é um passo em direção ao meu objetivo de programação, e a jornada de aprendizado é a trilha sonora que impulsiona minha paixão por criar soluções inovadoras e transformar o mundo digital.
@@ -44,8 +12,16 @@ Desde a infância, meu coração pulsa ao ritmo da tecnologia. Cada linha de có
 
 
 
-## GitHub Stats
-![Antonio Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=UmJovemProgramador&show_icons=true&theme=tokyonight)
+## GitHub Stats & Top Languages
+<div align="center">
+  <a href="https://github.com/UmJovemProgramador">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=UmJovemProgramador&show_icons=true&theme=tokyonight"/>
+  </a>
+  <a href="https://github.com/UmJovemProgramador">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmJovemProgramador&layout=compact&langs_count=7&theme=tokyonight"/>
+  </a>
+</div>
+
 
 
 
