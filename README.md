@@ -30,12 +30,6 @@
 <br />
 
 <div align="center">
-<div align="center">
-  <a href="https://github.com/UmJovemProgramador">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmJovemProgramador&layout=compact&langs_count=7&theme=dark"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=UmJovemProgramador&show_icons=true&theme=dark" />
-  </a>
-</div>
   
   <br/>
   <br/>
