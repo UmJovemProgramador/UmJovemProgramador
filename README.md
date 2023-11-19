@@ -78,7 +78,7 @@ I discovered my interest in technology recently, and now I'm always looking to l
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)
 
 ![Notion](https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346.svg?style=for-the-badge&logo=Microsoft-Excel&logoColor=white)
+![Excel](https://www.cediformacio.com/wp-content/uploads/2016/03/powerpoint.jpg)
 
 
 
