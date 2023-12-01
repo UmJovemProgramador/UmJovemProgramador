@@ -1,9 +1,9 @@
-# Hello World! I'm Antônio Lucas :D
+# 🏻 Hello World! I'm Antônio Lucas :D
 Since childhood, my heart has pulsed to the rhythm of technology. Each line of code is a step towards my programming goal, and the learning journey is the soundtrack that drives my passion for creating innovative solutions and transforming the digital world.
 
 Desde a infância, meu coração pulsa ao ritmo da tecnologia. Cada linha de código é um passo em direção ao meu objetivo de programação, e a jornada de aprendizado é a trilha sonora que impulsiona minha paixão por criar soluções inovadoras e transformar o mundo digital.
 
-## Conecte-se Comigo
+## 🏻 Conecte-se Comigo
 
 [![LikedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-lucas-costa-araujo-2a66a2264/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/?hl=en)
@@ -12,7 +12,7 @@ Desde a infância, meu coração pulsa ao ritmo da tecnologia. Cada linha de có
 
 
 
-## GitHub Stats & Top Languages
+## 🏻 GitHub Stats & Top Languages
 <div align="center">
   <a href="https://github.com/UmJovemProgramador">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=UmJovemProgramador&show_icons=true&theme=tokyonight"/>
@@ -30,7 +30,7 @@ Desde a infância, meu coração pulsa ao ritmo da tecnologia. Cada linha de có
 
 
 
-## Skills 
+## 🏻 Skills 
 
 <div style="display: inline_block"> </br>
     <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" alt="html5">
@@ -40,7 +40,7 @@ Desde a infância, meu coração pulsa ao ritmo da tecnologia. Cada linha de có
     
 </div>
 
-## Tools 🔗
+## 🏻 Tools 🔗
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 ![Colab](https://img.shields.io/badge/Google%20Colab-F9AB00.svg?style=for-the-badge&logo=Google-Colab&logoColor=white)
@@ -50,3 +50,14 @@ Desde a infância, meu coração pulsa ao ritmo da tecnologia. Cada linha de có
 ![Notion](https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white)
 
 
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="35" height="35"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="typescript" width="30" height="35"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="35" height="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="30" height="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="35" height="35"/>
